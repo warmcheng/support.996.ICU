@@ -92,6 +92,7 @@ Supported by / 支持者:
 * Charles Davis, Data Analyst, UC Berkeley
 * Charles Zhang(张慕杨), Teacher, BDQN KGC
 * Chelsea Wang, Product Designer, Facebook
+* Chen Nan, Developer, NanJing
 * Chen Rui (陈锐), 香港KC集团
 * Chen Xu, Senior Software Engineer, Microsoft
 * ChenBing Wang, Undergraduate, Peking University
@@ -274,10 +275,12 @@ Supported by / 支持者:
 * Satoshi Jek (Guangnan Jin), Student
 * Sean Gao, Senior Software Engineer
 * Sergey Alekhnovich, Software Engineer, iFood Decision Sciences
+* Seth Lin(XiuFeng Lin), Software Engineer, Fabric Group
 * Shan Zhou, Software Engineer, Microsoft
 * Shangsharon(姜尚伟), Software Engineer
 * ShanWu, Frontend Engineer, ThoughtWorks
 * Shaohua Huang, Software Engineer,Alibaba
+* Shaoqing Li, Front-End Engineer, China
 * Shen Lin, Front-End Developer, DHI China
 * Shengtao Li, Software Engineer, 66ifuel
 * SheQiao Zheng, Front-End Engineer, Jiawan Interactive
@@ -290,6 +293,7 @@ Supported by / 支持者:
 * Soeng Gam Lu(卢相锦),Android App Developer,Yulin.China
 * Stephanie Parker, Policy Specialist, YouTube
 * Stephen Shen, Software Engineer, MoonLegend.GuiYang
+* Steven Hitchcock, Localization Tester, Microsoft
 * Sun-ha Hong, assistant professor, Simon Fraser University
 * Swen Wang,Software Engineer, Shanghai.China
 * Thomas Corwin, Software Engineer, Freelancer
@@ -386,3 +390,4 @@ Supported by / 支持者:
 * Zongbao Feng, Engineer, Baidu
 * Zora Tung, Software Engineer, Google
 * Zuokun Ouyang, PhD Student, Université d'Orléans
+* Xianli Si, Software Engineer, Belle International
